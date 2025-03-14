@@ -1,0 +1,108 @@
+[
+  {
+    "productCode": 1076,
+    "current_price": 595,
+    "previous_price": 595
+  },
+  {
+    "productCode": 1335,
+    "current_price": 160,
+    "previous_price": 160
+  },
+  {
+    "productCode": 4093,
+    "current_price": 3200,
+    "previous_price": 3200
+  },
+  {
+    "productCode": 5033,
+    "current_price": 925,
+    "previous_price": 925
+  },
+  {
+    "productCode": 1194,
+    "current_price": 2820,
+    "previous_price": 2820
+  },
+  {
+    "productCode": 1984,
+    "current_price": 1050,
+    "previous_price": 1050,
+    "variation_suffix": 4
+  },
+  {
+    "productCode": 1984,
+    "current_price": 1050,
+    "previous_price": 1050,
+    "variation_suffix": 2
+  },
+  {
+    "productCode": 2594,
+    "current_price": 1550,
+    "previous_price": 1550,
+    "variation_suffix": 4
+  },
+  {
+    "productCode": 2594,
+    "current_price": 1550,
+    "previous_price": 1550,
+    "variation_suffix": 2
+  },
+  {
+    "productCode": 4071,
+    "current_price": 1300,
+    "previous_price": 1300,
+    "variation_suffix": 4
+  },
+  {
+    "productCode": 4071,
+    "current_price": 1300,
+    "previous_price": 1300,
+    "variation_suffix": 2
+  },
+  {
+    "productCode": 1050,
+    "current_price": 765,
+    "previous_price": 765
+  },
+  {
+    "productCode": 4149,
+    "current_price": 1585,
+    "previous_price": 1585
+  },
+  {
+    "productCode": 1597,
+    "current_price": 875,
+    "previous_price": 875
+  },
+  {
+    "productCode": 4150,
+    "current_price": 900,
+    "previous_price": 900
+  },
+  {
+    "productCode": 1356,
+    "current_price": 1350,
+    "previous_price": 1350
+  },
+  {
+    "productCode": 1148,
+    "current_price": 880,
+    "previous_price": 880
+  },
+  {
+    "productCode": 1309,
+    "current_price": 1050,
+    "previous_price": 1050
+  },
+  {
+    "productCode": 5012,
+    "current_price": 870,
+    "previous_price": 870
+  },
+  {
+    "productCode": 1997,
+    "current_price": 1845,
+    "previous_price": 1845
+  }
+]
